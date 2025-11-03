@@ -30,5 +30,5 @@ This project analyzes e-commerce product performance for beauty and cosmetics li
 - Which products fall under High / Medium / Low Profit categories?
 - Which brands bring maximum profit contribution?
 - How much revenue could be increased by focusing on high-profit items?
-# DASHBOARD INTERACTION
+## DASHBOARD INTERACTION
 - <a href="https://github.com/Kanika144/Beauty-Commerce-Insights-Nykaa-Sales-Analytics-Dashboard/blob/main/Nykaa%20Sales%20Analytics%20Screenshot.PNG">Nykaa Sales Analytics Screenshot.PNG</a>
