@@ -46,4 +46,5 @@ This project analyzes e-commerce product performance for beauty and cosmetics li
 ### Insights & Conclusion
 - Generated business insights to help improve product visibility, pricing, and marketing strategy.
 ## DASHBOARD
-- <a href="https://github.com/Kanika144/Beauty-Commerce-Insights-Nykaa-Sales-Analytics-Dashboard/blob/main/Nykaa%20Dashboard.pbix">Nykaa Dashboard.pbix</a>
+![<img width="908" height="507" alt="Nykaa Sales Analytics Screenshot" src="https://github.com/user-attachments/assets/837cec11-7116-4ab4-b566-f2115404667b" />
+
